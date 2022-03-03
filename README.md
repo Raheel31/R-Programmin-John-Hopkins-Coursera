@@ -1,1 +1,1 @@
-# R-Programmin-John-Hopkins-Coursera
+# R-Programing-John-Hopkins-Coursera
